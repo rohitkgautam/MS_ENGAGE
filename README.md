@@ -1,3 +1,6 @@
+### problem statement 
+Demonstrate through your app the different kinds of algorithms that a web-streaming app (like Netflix) or an audio-streaming app (like Spotify) may use for their Recommendation Engine.
+
 ### Movie Recommender  
 A movie recommender that recommends movies using the K Nearest Neighbours algorithm from a list of ~5000 movies. Deployed Heroku Web App: https://my-movie-recommender-app.herokuapp.com/
 
