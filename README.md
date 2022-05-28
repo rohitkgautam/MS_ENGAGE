@@ -22,7 +22,7 @@ IMDB 5000 Movie Dataset downloaded from [Kaggle](https://www.kaggle.com/carolzha
 - Options to select multiple genres and IMDb score. Also option to select number of movies recommended. Range provided is 5 to 20 movies.
 
 ### features
-Recommendation's based on movie or genre 
+- Recommendation's based on movie or genre 
 Simple responsive UI
 Movie's official imdb link
 Movie Poster
