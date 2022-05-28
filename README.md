@@ -35,4 +35,4 @@ IMDB 5000 Movie Dataset downloaded from [Kaggle](https://www.kaggle.com/carolzha
 - pip install -r requirements.txt
 - st_app.py is the main Python file of Streamlit Web-Application.
 - To run app, write following command in CMD. or use any IDE.
-- streamlit run st_app.py
+ streamlit run st_app.py
