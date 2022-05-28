@@ -24,7 +24,7 @@ IMDB 5000 Movie Dataset downloaded from [Kaggle](https://www.kaggle.com/carolzha
 ### features
 - Recommendation's based on movie or genre 
 - Simple responsive UI
-- Movie's official imdb link
+- Movie's official page imdb link
 - Movie Poster
 
 
