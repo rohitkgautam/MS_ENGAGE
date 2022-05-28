@@ -26,7 +26,7 @@ IMDB 5000 Movie Dataset downloaded from [Kaggle](https://www.kaggle.com/carolzha
 - Simple responsive UI
 - Movie's official imdb link
 - Movie Poster
-- IMDB Ratings⭐
+
 
 ### usage
 - Clone my repository.
