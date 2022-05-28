@@ -1,5 +1,5 @@
 ### Movie Recommender  
-A movie recommender that recommends movies using the K Nearest Neighbours algorithm from a list of ~5000 movies
+A movie recommender that recommends movies using the K Nearest Neighbours algorithm from a list of ~5000 movies. Heroku Web App: https://my-movie-recommender-app.herokuapp.com/
 
 ### requirements
 - Python version: 3.7.4
