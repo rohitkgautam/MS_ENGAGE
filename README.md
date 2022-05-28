@@ -23,16 +23,16 @@ IMDB 5000 Movie Dataset downloaded from [Kaggle](https://www.kaggle.com/carolzha
 
 ### features
 - Recommendation's based on movie or genre 
-Simple responsive UI
-Movie's official imdb link
-Movie Poster
-IMDB Ratings⭐
+- Simple responsive UI
+- Movie's official imdb link
+- Movie Poster
+- IMDB Ratings⭐
 
 ### usage
-Clone my repository.
-Open CMD in working directory.
-Run following command.
-pip install -r requirements.txt
-st_app.py is the main Python file of Streamlit Web-Application.
-To run app, write following command in CMD. or use any IDE.
-streamlit run st_app.py
+- Clone my repository.
+- Open CMD in working directory.
+- Run following command.
+- pip install -r requirements.txt
+- st_app.py is the main Python file of Streamlit Web-Application.
+- To run app, write following command in CMD. or use any IDE.
+- streamlit run st_app.py
